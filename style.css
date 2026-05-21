@@ -1,4 +1,4 @@
-body 
+.body 
 {
     font-family: Arial;
     margin: 0;
@@ -6,7 +6,7 @@ body
     text-align: center;
 }
 
-header
+.header
 {
     background: white;
     color: black;
@@ -14,7 +14,7 @@ header
     text-align: center;
 }
 
-nav a 
+.nav
 {
     color: brown;
     margin: 10px;
@@ -33,9 +33,10 @@ nav a
 {
     padding: 20px;
     font-size: 18px;
+    text-align: center;
 }
 
-footer
+.footer
 {
     background: black;
     color: white;
@@ -43,3 +44,15 @@ footer
     padding: 10px;
     margin-top: 20px;
 }
+
+.image
+{
+    width: 200px;
+    margin-left: 60px;
+}
+
+.price
+{
+    margin-left: 250px;
+}
+
